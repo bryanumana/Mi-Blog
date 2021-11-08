@@ -37,11 +37,16 @@ body{
 }
 #cabecera #tagline{
     padding: 0 0 0 1em;
-    font-weight: ;
     font-size: 1em;
 }
 
 #post{
     padding: 1em;
     background-color: white;
+}
+
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
 }
